@@ -46,7 +46,7 @@ Due to capacity, we have limited the [original sign-up form](https://docs.google
 
 We have prepared a simple kit to help with the prototyping and making process. The kits are aimed at beginners who have little prior experience with electronics and making and want to learn the basics. You don't need a kit to participate! Read on for a list of components included in the kit if you would like to source them locally yourself.
 
-We originally expected most of the attendees to be based in the Netherlands, but due to our virtual format this has since become a global event! If you are outside f the Netherlands, due to shipping logistics, we are limited by cost and time limitations on top of COVID-19 related delays. Please read on if you are interested in receiving a kit!
+We originally expected most of the attendees to be based in the Netherlands, but due to our virtual format this has become a global event! If you are outside of the Netherlands, due to shipping logistics, we are limited by cost and time limitations on top of COVID-19 related delays. Please read on if you are interested in receiving a kit!
 
 **If you are in the Netherlands:**
 
