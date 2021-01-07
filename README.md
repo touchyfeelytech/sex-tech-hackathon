@@ -48,10 +48,10 @@ We have prepared a simple kit to help with the prototyping and making process. T
 
 We originally expected most of the attendees to be based in the Netherlands, but due to our virtual format this has become a global event! If you are outside of the Netherlands, due to shipping logistics, we are limited by cost and time limitations on top of COVID-19 related delays. Please read on if you are interested in receiving a kit!
 
-**If you are in the Netherlands:**  
+### If you are in the Netherlands ###
 Please confirm your address with us as soon as possible so we can ship you a kit with PostNL.
 
-**If you are outside of the Netherlands:**  
+### If you are outside of the Netherlands ###  
 Before choosing whether you are interested in receiving a kit, please take note of the following information. If you are interested, please confirm your address and understanding of the above with us as soon as possible!
 
 **International Shipping**  
