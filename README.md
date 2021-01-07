@@ -10,7 +10,7 @@
 
 # Introduction
 
-**What:** Rainbows End Sex Tech Hackathon is an online event organised by Creative Coding Utrecht, [Touchy-Feely Tech](https://www.instagram.com/touchyfeelytech/) and Creative Coding Amsterdam. This mini-hackathon will explore the diverse and evolving field of Sex Tech and its impact on the past, present, and future of intimacy, companionship, and human behaviour. You can expect talks, workshops and demos, the chance to learn something new and plenty of opportunities to connect with fellow Sex Tech Hackers.
+**What:** Rainbows End Sex Tech Hackathon is an online event organised by [Creative Coding Utrecht](https://creativecodingutrecht.nl/), [Touchy-Feely Tech](https://www.instagram.com/touchyfeelytech/) and [Creative Coding Amsterdam](http://creativecodingamsterdam.com/). This mini-hackathon will explore the diverse and evolving field of Sex Tech and its impact on the past, present, and future of intimacy, companionship, and human behaviour. You can expect talks, workshops and demos, the chance to learn something new and plenty of opportunities to connect with fellow Sex Tech Hackers.
 
 **When:** 9:30am - 18:00pm CET Saturday January 23rd and 10:00am - 3pm CET Sunday January 24th, 2021.
 
