@@ -48,20 +48,16 @@ We have prepared a simple kit to help with the prototyping and making process. T
 
 We originally expected most of the attendees to be based in the Netherlands, but due to our virtual format this has become a global event! If you are outside of the Netherlands, due to shipping logistics, we are limited by cost and time limitations on top of COVID-19 related delays. Please read on if you are interested in receiving a kit!
 
-**If you are in the Netherlands:**
-
+**If you are in the Netherlands:**  
 Please confirm your address with us as soon as possible so we can ship you a kit with PostNL.
 
-**If you are outside of the Netherlands:**
-
+**If you are outside of the Netherlands:**  
 Before choosing whether you are interested in receiving a kit, please take note of the following information. If you are interested, please confirm your address and understanding of the above with us as soon as possible!
 
-**International Shipping**
-
+**International Shipping**  
 We plan to ship the kits 7 working days before the event. The list of average delivery times for our chosen shipping method (International Parcel with Track and Trace / Pakket met Track & Trace) can be found here. As each country has a different situation, we cannot take responsibility for your parcel arriving on time due to unexpected delays. Please check PostNL's updated international delays here to estimate the likelihood of your kit arriving on time.
 
-**International Costs**
-
+**International Costs**  
 If you choose to order a kit, we ask for an extra charge to cover the cost of shipping and tracking. This cost ranges per country. Please check the cost using [this PostNL tool](https://www.postnl.nl/tarieven/Pakket/LU/0-350g) (choose Pakket, 0-350g). The site is only available in Dutch, so you might have to translate the name of your country with a [translation tool](https://translate.google.com/).
 
 If you would like a faster international service, please refer to PostNL's [International Express](https://www.postnl.nl/en/mail-and-parcels/parcels/international-express/) page to calculate the costs.
