@@ -2,7 +2,11 @@
 
 # **TL;DR**
 
-💜 WHEN: Hackathon 23 January / Pitches 24 January💜 WHERE: Online💜 PRICE: €30,- / Students: €15,-💜 WAITING LIST: [https://forms.gle/bdEwk1D2DYJp7ALf6](https://forms.gle/bdEwk1D2DYJp7ALf6)💜 KITS: If you are inside the Netherlands you will receive the kit without extra costs, but if you are outside the Netherlands there are two options: pay a little bit extra for the international shipping costs or source your own kit locally! More info below.
+💜 WHEN: Hackathon 23 January / Pitches 24 January  
+💜 WHERE: Online  
+💜 PRICE: €30,- / Students: €15,-  
+💜 WAITING LIST: [https://forms.gle/bdEwk1D2DYJp7ALf6](https://forms.gle/bdEwk1D2DYJp7ALf6)  
+💜 KITS: If you are inside the Netherlands you will receive the kit without extra costs, but if you are outside the Netherlands there are two options: pay a little bit extra for the international shipping costs or source your own kit locally! More info below.
 
 # **Introduction**
 
@@ -83,9 +87,19 @@ The following links are indicative of the type of component but not the supplier
 
 Specifications: Package size: 148x210x30mm Package weight: up to 350g
 
-Electronic components:1x Custom printed circuit board with parts soldered to it (that doubles up as a souvenir keyring)2x Vibration motors: [3V DC N20](https://www.desertcart.ae/products/126285022-tatoko-n20-dc-vibration-motor-3v-8000rpm-powerful-small-electric-motor-micro-vibrating-motor-2pcs) type and [3V Coin](https://www.adafruit.com/product/1201) type* (or any type)3x Resistors to change the strength of the motors: 0 Ohm, 7.5 Ohm, 15 Ohm3x Wire connectors for battery pack and motors1x [Battery pack](https://www.adafruit.com/product/4192) for 2x AAA batteries*2x [AAA batteries](https://www.adafruit.com/product/617)*1x Latching [push button](https://www.banggood.com/100pcs-8-x-8mm-6-Pin-Touch-Self-locking-On-or-Off-Switch-Push-Button-Switch-Latching-Switch-p-1201962.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=AE&utm_content=minha&utm_campaign=minha-ae-en-pc&currency=AED&cur_warehouse=CN&createTmp=1)*
+Electronic components:  
+1x Custom printed circuit board with parts soldered to it (that doubles up as a souvenir keyring)  
+2x Vibration motors: [3V DC N20](https://www.desertcart.ae/products/126285022-tatoko-n20-dc-vibration-motor-3v-8000rpm-powerful-small-electric-motor-micro-vibrating-motor-2pcs) type and [3V Coin](https://www.adafruit.com/product/1201) type* (or any type)  
+3x Resistors to change the strength of the motors: 0 Ohm, 7.5 Ohm, 15 Ohm  
+3x Wire connectors for battery pack and motors  
+1x [Battery pack](https://www.adafruit.com/product/4192) for 2x AAA batteries*  
+2x [AAA batteries](https://www.adafruit.com/product/617)*  
+1x Latching [push button](https://www.banggood.com/100pcs-8-x-8mm-6-Pin-Touch-Self-locking-On-or-Off-Switch-Push-Button-Switch-Latching-Switch-p-1201962.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=AE&utm_content=minha&utm_campaign=minha-ae-en-pc&currency=AED&cur_warehouse=CN&createTmp=1)*
 
-Making materials:1x [Polymer clay](https://www.grandado.com/products/uk-mixed-colour-24-zachte-sculpey-oven-bakken-klei-modellering-molding-blok-ssgp?variant=6352559472672&currency=EUR&gclid=CjwKCAiA_9r_BRBZEiwAHZ_v13jvFIYADfcV5Ebd7mwNxVXYXZZRWY2ky916CjefQ-6aSPlUrQSopBoCWXgQAvD_BwE) for modelling forms (2 colours)1x [Felt](https://www.bakerross.nl/vilt-vellen?&gclid=CjwKCAiA_9r_BRBZEiwAHZ_v1_xJpjSvQtAN4YWbmlpCLWCaN126lGEN8EkTcly58W6pNLMIQXeh0RoC41QQAvD_BwE) for creating wearable or soft interfaces (2 colours)1x Needle and thread
+Making materials:  
+1x [Polymer clay](https://www.grandado.com/products/uk-mixed-colour-24-zachte-sculpey-oven-bakken-klei-modellering-molding-blok-ssgp?variant=6352559472672&currency=EUR&gclid=CjwKCAiA_9r_BRBZEiwAHZ_v13jvFIYADfcV5Ebd7mwNxVXYXZZRWY2ky916CjefQ-6aSPlUrQSopBoCWXgQAvD_BwE) for modelling forms (2 colours)  
+1x [Felt](https://www.bakerross.nl/vilt-vellen?&gclid=CjwKCAiA_9r_BRBZEiwAHZ_v1_xJpjSvQtAN4YWbmlpCLWCaN126lGEN8EkTcly58W6pNLMIQXeh0RoC41QQAvD_BwE) for creating wearable or soft interfaces (2 colours)  
+1x Needle and thread
 </details>
 
 <details>
