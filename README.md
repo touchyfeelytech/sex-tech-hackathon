@@ -46,7 +46,7 @@ It's fine to create a solo project, but if you want to collaborate with others, 
 
 Day 1: After introducing the event and its challenges, we will provide opportunities to mingle and form teams. The rest of the day will be split up into three “sprints”, with talks and breaks scheduled throughout. The sprints will be guided by mentors with experience of previous Sex Tech Hackathons, and are there to support your idea generation, prototyping, and pitch building activities.  
 
-Day two of the Hackathon will culminate in afternoon pitch session in front of a panel of judges. There are prizes to be won!  
+Day 2: Time for working on projects followed by an afternoon pitch session in front of a judging panel. There are prizes to be won!  
 
 A full schedule of the event will be announced soon.  
 
