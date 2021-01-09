@@ -6,7 +6,7 @@
 💜 WHERE: Online  
 💜 PRICE: €30,- / Students: €15,-  
 💜 WAITING LIST: [https://forms.gle/bdEwk1D2DYJp7ALf6](https://forms.gle/bdEwk1D2DYJp7ALf6)  
-💜 KITS: If you are inside the Netherlands you will receive the kit without extra costs, but if you are outside the Netherlands there are two options: pay a little bit extra for the international shipping costs or source your own kit locally! More info below.
+💜 KITS: If you are inside the Netherlands you will receive the kit without extra costs, but if you are outside the Netherlands there are two options: pay a little bit extra for the international shipping costs or source your own kit locally! [More info below](https://github.com/touchyfeelytech/sex-tech-hackathon/blob/main/README.md#kits).
 
 # **Introduction**
 
@@ -37,7 +37,7 @@ Due to capacity, we have limited the [original sign-up form](https://docs.googl
 [ x ] Make sure you've ordered your ticket  
 [ x ] Agree to our Code of Conduct (TBA)  
 [ x ] Introduce yourself on the [introductions doc](https://docs.google.com/document/d/1MU5UgJ7BUryLbj1cE-3zsQH3TvfaMQv5D5IvjGIL7I4/edit)  
-[ x ] Have a brief idea of the challenge you'd like to work on - this will leave more time for development on the day!  
+[ x ] Have a brief idea of the [challenge](https://github.com/touchyfeelytech/sex-tech-hackathon/blob/main/README.md#challenges) you'd like to work on - this will leave more time for development on the day!  
 [ x ] Order any tools or materials you might like to use ahead of time
 
 ## Finding a team
