@@ -42,9 +42,11 @@ Due to capacity, we have limited the [original sign-up form](https://docs.googl
 
 ## Finding a team
 
+It's fine to create a solo project, but we want to provide a setting that encourages teamwork and a fruitful exchange of ideas.
+
 We have created an introductions document [here](https://docs.google.com/document/d/1MU5UgJ7BUryLbj1cE-3zsQH3TvfaMQv5D5IvjGIL7I4/edit?usp=sharing) for networking before the event. When you purchase a ticket, you will be invited to the document ([let us know](mailto:hello@touchyfeely.tech) if you haven't been added yet). Feel free to introduce yourself there to get to know other attendees ahead of time.  
 
-It's fine to create a solo project, but if you want to collaborate with others, there will be opportunities on the day to mingle, share ideas and form teams.  
+If you want to collaborate with others, there will be opportunities on the day to mingle, share ideas and form teams.  
 
 ## Event structure
 
