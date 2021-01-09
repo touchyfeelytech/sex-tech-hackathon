@@ -30,7 +30,11 @@ Due to capacity, we have limited the [original sign-up form](https://docs.googl
 
 ## Things to do b**efore the event**
 
-[ x ] Make sure you've ordered your ticket[ x ] Agree to our Code of Conduct (TBA)[ x ] Introduce yourself on the [introductions doc](https://docs.google.com/document/d/1MU5UgJ7BUryLbj1cE-3zsQH3TvfaMQv5D5IvjGIL7I4/edit)[ x ] Have a brief idea of something you'd like to work on - this will leave more time for development on the day![ x ] Order any tools or materials you might like to use ahead of time
+[ x ] Make sure you've ordered your ticket  
+[ x ] Agree to our Code of Conduct (TBA)  
+[ x ] Introduce yourself on the [introductions doc](https://docs.google.com/document/d/1MU5UgJ7BUryLbj1cE-3zsQH3TvfaMQv5D5IvjGIL7I4/edit)  
+[ x ] Have a brief idea of the challenge you'd like to work on - this will leave more time for development on the day!  
+[ x ] Order any tools or materials you might like to use ahead of time
 
 ## Finding a team
 
@@ -66,7 +70,7 @@ The (Sex) tech we use should be as multifaceted as its users, but it doesn't cur
 
 *Please note: You don't need a kit, or any technical background to participate! The judging criteria will take into account the virtual format and the fact that most participants will have limited access to resources.*
 
-The kits are aimed at beginners who have little prior experience with electronics and making and offer basic supplies to learn, get hands-on, and play with simple electronics. 
+We have prepared a limited number of kits that are aimed at beginners who have little prior experience with electronics and making and offer basic supplies to learn, get hands-on, and play with simple electronics. 
 
 If you are located outside of the Netherlands, we are limited by cost and time limitations on top of extra COVID-19 related delays. You have two choices: order a kit from us, or source the parts locally yourself.
 
