@@ -1,5 +1,3 @@
-# Rainbows End Sex Tech Hackathon: Plan
-
 # **Rainbows End 🌈🌈🌈 Sex Tech Hackathon**
 
 # **TL;DR**
