@@ -32,7 +32,7 @@ Due to capacity, we have limited the [original sign-up form](https://docs.googl
 
 # **Pre-Hackathon preparations**
 
-## Things to do b**efore the event**
+## Things to do before the event**
 
 [ x ] Agree to our [Code of Conduct](https://github.com/touchyfeelytech/sex-tech-hackathon/blob/main/code-of-conduct.md)  
 [ x ] Introduce yourself on the [introductions doc](https://docs.google.com/document/d/1MU5UgJ7BUryLbj1cE-3zsQH3TvfaMQv5D5IvjGIL7I4/edit)  
@@ -57,7 +57,7 @@ A full schedule of the event will be announced soon.
 
 ## Challenges
 
-The Hackathon invites participants to conceptualise and/or build projects that respond to our proposed challenges: Remoteness, Fair Futures and Sex Education.
+The Hackathon invites participants to conceptualise and/or build projects that respond to our proposed challenges: Remoteness, Fair Futures and Sex(Tech) Education.
 
 ### Remoteness
 
@@ -67,7 +67,7 @@ In the last year, more than ever, we have found ourselves "[alone together](http
 
 The (Sex) tech we use should be as multifaceted as its users, but it doesn't currently reflect the wide spectrum of human identities, imaginations or bodies we all have or are capable of having. The homogenising nature of technology and its promise to optimise everything (including our pleasure) can be exclusionary and drastically narrow our experience. How can Sex Tech embrace diversity, inclusion and intersectionality to ensure fair technological futures?
 
-### Sex Education
+### Sex(Tech) Education
 
 **Sexual health is health**, and a good sex education is directly correlated with better overall health and wellbeing. Despite this, Sex Ed at school level is often outdated, underfunded and sometimes even nonexistent. Taboo and stigma prevail across this field and the challenges faced vary from culture to culture. How can technology create opportunities for new formats that focus on improving sexual health, wellness and body literacy?
 
