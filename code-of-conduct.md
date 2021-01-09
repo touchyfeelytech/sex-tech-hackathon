@@ -39,17 +39,17 @@ We expect everyone to...
 - No trolling
 - No sharing of illegal or pirated material
 - No pornography or explicit imagery
-- No 
 - No foul or graphic language
 
 ### Not Safe For Work (NSFW) content
 
-NSFW content defines websites, imagery, recordings and media that is potentially sensitive and not suitable for viewing in a work environment or near children. As this event encourages discussion around themes of sex and sexual behaviour, it is important to further define our NSFW policy:
+NSFW content defines websites, imagery, recordings and media that is potentially sensitive and not suitable for viewing in a work environment or near children. This event encourages discussion around themes of sex and sexual behaviour, but we do not encourage sexualised or insensitive imagery.
 
-- As outlined above, pornography and sexualised content should not be shared. 
-- Images of nudity or anatomy may be used to illustrate an idea, however imagery that is intended to shock or arouse beyond this function is not acceptable.
-- Where NSFW topics are discussed, they should be relevant to the event's theme and consider the ethics outlined in this Code of Conduct. 
-- If you are unsure, please carefully review the desired and unacceptable behaviours outlined in this document, and consider if the content might be sensitive to others.
+- As outlined above, pornography and sexualised content should not be shared.
+- Sharing other types of NSFW content such as gore or violence is unacceptable.
+- Images of nudity or anatomy may be used to illustrate an idea, however imagery that is intended to shock or arouse beyond this function is unacceptable.
+- Where NSFW topics are being discussed, they should be relevant to the event's theme and consider the ethics outlined in this Code of Conduct. 
+- If you are unsure, please carefully review the desired and unacceptable behaviours outlined in this document, and consider how your discussion points could affect others.
 
 ### Enforcement
 
