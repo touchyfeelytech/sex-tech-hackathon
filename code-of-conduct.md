@@ -15,7 +15,7 @@ We expect everyone to...
 - Foster an inclusive environment, for example by using inclusive language
 - Listen to differing viewpoints and experiences
 - Be mindful of the needs and boundaries of others
-- Foster an un-intimidating environment where people feel comfortable asking for help
+- Create an environment where people feel comfortable asking questions
 - Be committed to help others where appropriate or when asked
 
 ### Unacceptable behaviours
