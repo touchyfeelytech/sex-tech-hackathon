@@ -42,11 +42,11 @@ We expect everyone to...
 
 ### Not Safe For Work (NSFW) content
 
-As this event deals with themes of sex and sexual behaviour, it may at times be necessary to share NSFW content. If this occurs, please consider the following:
+NSFW content defines imagery, recordings or other media that is sensitive and not suitable for viewing in a work environment or near children. As this event encourages discussion around themes of sex and sexual behaviour, it may at times be necessary to share NSFW content related to the event's theme. However, any other kind of sensitive content is unacceptable. Before posting NSFW content, please consider the following:
 
-- Carefully consider the behaviours outlined in this document before posting NSFW content.
+- Carefully review the behaviours outlined in this document, and consider if the content might be sensitive to others.
 - Only post NSFW content to delegated NSFW channels.
-- In NSFW channels, do not post explicit images or pornography without prior warning or consent.
+- In NSFW channels, do not post explicit images or pornography without prior warning and consent.
 
 ### Enforcement
 
