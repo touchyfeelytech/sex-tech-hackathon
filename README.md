@@ -114,11 +114,13 @@ Please confirm your address with us as soon as possible so we can ship you a kit
 
 Before choosing whether you are interested in receiving a kit, please take note of the following information. If you are interested, please confirm your address and understanding of the above with us as soon as possible!
 
-**International Shipping**We plan to ship the kits 7 working days before the event. The list of average delivery times for our chosen shipping method (International Parcel with Track and Trace / Pakket met Track & Trace) can be found [here](https://www.postnl.nl/en/customer-service/international-delivery-times-post-and-parcels/).
+**International Shipping**  
+We plan to ship the kits 7 working days before the event. The list of average delivery times for our chosen shipping method (International Parcel with Track and Trace / Pakket met Track & Trace) can be found [here](https://www.postnl.nl/en/customer-service/international-delivery-times-post-and-parcels/).
 
 As each country has a different situation, we cannot take responsibility for your parcel arriving on time due to unexpected delays. Please check PostNL's updated international delays [here](https://github.com/touchyfeelytech/sex-tech-hackathon/blob/main/postnl.nl/isa) to estimate the likelihood of your kit arriving on time.
 
-**International Costs**If you choose to order a kit, we ask for an extra charge to cover the cost of shipping and tracking. This cost ranges per country, so please contact us directly with your location if you are interested in a kit, and we will provide more information.
+**International Costs**  
+If you choose to order a kit, we ask for an extra charge to cover the cost of shipping and tracking. This cost ranges per country, so please contact us directly with your location if you are interested in a kit, and we will provide more information.
 </details>
 
 <details>
