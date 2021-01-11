@@ -62,10 +62,12 @@ As this is a remote event with both beginners and seasoned Hackers attending, we
 Here are a range of examples of what a project could be:
 - A slide of text and found imagery
 - A drawing
+- A plan
+- A toolkit
 - A collage of images and icons
 - A no-code website or app (see our no-code platform examples [here](https://github.com/touchyfeelytech/sex-tech-hackathon#prototyping-tools-and-materials)
 - A miniature prototype using clay
-- A prototype with electronics and Arduino
+- Something using simple electronics or the [kit](https://github.com/touchyfeelytech/sex-tech-hackathon/#kits) if you have it!
 
 ## Challenges
 
