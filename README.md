@@ -43,7 +43,7 @@ Due to capacity, we have limited the [original sign-up form](https://docs.googl
 
 It's fine to create a solo project, but we want to provide a setting that encourages teamwork and a fruitful exchange of ideas.
 
-We have created an introductions document [here](https://docs.google.com/document/d/1MU5UgJ7BUryLbj1cE-3zsQH3TvfaMQv5D5IvjGIL7I4/edit?usp=sharing) for networking before the event. When you purchase a ticket, you will be invited to the document ([let us know](mailto:hello@touchyfeely.tech) if you haven't been added yet). Feel free to introduce yourself there to get to know other attendees ahead of time.  
+On the event's Discord, we have created a channel for introductions and finding a team. When you purchase a ticket, you will be invited to the Discord server ([let us know](mailto:hello@touchyfeely.tech) if you haven't been added yet). Feel free to introduce yourself there to get to know other attendees ahead of time.  
 
 If you want to collaborate with others, there will be opportunities on the day to mingle, share ideas and form teams.  
 
