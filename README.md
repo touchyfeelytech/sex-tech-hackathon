@@ -55,6 +55,18 @@ Day 2: Time for working on projects followed by an afternoon pitch session in fr
 
 A full schedule of the event will be announced soon.  
 
+## Project outcomes
+
+As this is a remote event with both beginners and seasoned Hackers attending, we understand that some people will have limited access to skills or resources. We are therefore ensuring the judging criteria reflects this, and welcome all sorts of interpretations of our [challenges](https://github.com/touchyfeelytech/sex-tech-hackathon#challenges). We will provide a pitch template for the event to make sure the presentations are fair. We are regularly adding beginner-friendly tools and materials [here](https://github.com/touchyfeelytech/sex-tech-hackathon#prototyping-tools-and-materials).  
+  
+Here are a range of examples of what a project could be:
+- A slide of text and found imagery
+- A drawing
+- A collage of images and icons
+- A no-code website or app (see our no-code platform examples [here](https://github.com/touchyfeelytech/sex-tech-hackathon#prototyping-tools-and-materials)
+- A miniature prototype using clay
+- A prototype with electronics and Arduino
+
 ## Challenges
 
 The Hackathon invites participants to conceptualise and/or build projects that respond to our proposed challenges: Remoteness, Fair Futures and Sex(Tech) Education.
