@@ -65,8 +65,8 @@ We expect people to follow these rules at all times for the duration of the even
 
 ### Organising Team
 
-- [Fabian van Sluijs](mailto:fs@creativecodingutrecht.nl), Creative Coding Utrecht
-- [Alice Stewart](mailto:hello@touchyfeely.tech), Touchy-Feely Tech
+- [Fabian van Sluijs](mailto:fs@creativecodingutrecht.nl), Creative Coding Utrecht: fs@creativecodingutrecht.nl
+- [Alice Stewart](mailto:hello@touchyfeely.tech), Touchy-Feely Tech: hello@touchyfeely.tech
 
 Touchy-Feely Tech & Creative Coding Utrecht reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part.
 
