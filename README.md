@@ -190,7 +190,7 @@ Whether you want to get physical, digital, or both, here are some prototyping to
 
 ## **Inspiration**
 
-We will be populating this resource with inspiring projects soon! We're also posting inspo on the [@touchyfeelytech](https://www.instagram.com/touchyfeelytech/) Instagram in the run up to the event.
+Check out our [are.na](https://www.are.na/alice-stewart/rainbows-end-sex-tech-hackathon-inspo) channel for inspo related to the event and its challenges! We're also posting inspo on the [@touchyfeelytech](https://www.instagram.com/touchyfeelytech/) Instagram in the run up to the event.
 
 ## **Educational resources**
 
