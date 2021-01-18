@@ -28,7 +28,7 @@ For general questions about the event and preparation: [hello@touchyfeely.tech]
 
 # **Registration**
 
-Due to capacity, we have limited the [original sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSf6uLGI68SDe2cN4rf1sFqUJa3oPid_UOPDtdj48bbs7hgi5Q/closedform) to 30 participants. We hope to expand the amount of available spots, so if you are keen to join us you can sign up to the waiting list [here](https://forms.gle/bdEwk1D2DYJp7ALf6).
+The Hackathon is now full! We hope to run more events like this in the future, so be sure to follow our progress if you're interested to join the next one. 
 
 # **Pre-Hackathon preparations**
 
@@ -49,11 +49,11 @@ If you want to collaborate with others, there will be opportunities on the day t
 
 ## Event structure
 
+A full schedule of the event can be found here: [https://docs.google.com/spreadsheets/d/1aU0CjCVJiREtOPEc8Y2hWWoolnLmWwtDytIbNY_CmSU](https://docs.google.com/spreadsheets/d/1aU0CjCVJiREtOPEc8Y2hWWoolnLmWwtDytIbNY_CmSU)
+
 Day 1: After introducing the event and its challenges, we will provide opportunities to mingle and form teams. The rest of the day will be split up into three “sprints”, with talks and breaks scheduled throughout. The sprints will be guided by mentors with experience of previous Sex Tech Hackathons, and are there to support your idea generation, prototyping, and pitch building activities.  
 
 Day 2: Time for working on projects followed by an afternoon pitch session in front of a judging panel. There are prizes to be won!  
-
-A full schedule of the event will be announced soon.  
 
 ## Project outcomes
 
