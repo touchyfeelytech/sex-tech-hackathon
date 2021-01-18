@@ -77,7 +77,7 @@ The Hackathon invites participants to conceptualise and/or build projects that r
 
 In the last year, more than ever, we have found ourselves "[alone together](https://www.goodreads.com/book/show/8694125-alone-together)". How can technology remedy the effects of our isolation, and facilitate intimacy between humans, machines or virtual entities who are remote? On the flip-side, can our improved literacy in cyberspace open up new or experimental forms of intimacy and companionship?
 
-### Fair futures
+### Fair Futures
 
 The (Sex) tech we use should be as multifaceted as its users, but it doesn't currently reflect the wide spectrum of human identities, imaginations or bodies we all have or are capable of having. The homogenising nature of technology and its promise to optimise everything (including our pleasure) can be exclusionary and drastically narrow our experience. How can Sex Tech embrace diversity, inclusion and intersectionality to ensure fair technological futures?
 
