@@ -194,7 +194,9 @@ Check out our [are.na](https://www.are.na/alice-stewart/rainbows-end-sex-tech-ha
 
 ## **Educational resources**
 
-We will be adding links to educational information and technical tutorials related to making and Sex Tech here soon!
+We'll be doing live classes and project teardowns on the day!  
+  
+A simple DIY Vibrator Guide can be found [here](http://touchyfeely.tech/diy-vibrator-guide)  
 
 ## **Supporters**
 
