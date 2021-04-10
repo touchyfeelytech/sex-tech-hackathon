@@ -1,5 +1,7 @@
 # **Rainbows End 🌈🌈🌈 Sex Tech Hackathon**
 
+# **Please note! This page is for the January 2021 Hackathon: For information on the most recent Hackathon, please go [here](http://hack.touchyfeely.tech) **
+
 # **TL;DR**
 
 💜 WHEN: Hackathon 23 January / Pitches 24 January  
