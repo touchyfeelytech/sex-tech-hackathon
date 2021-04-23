@@ -142,7 +142,7 @@ During this workshop, Laura will lead us from digital design to a physical objec
 <details>
   <summary>⭐ Specifics for the Making and Coding for Intimate Technologies overview ⭐</summary>
   </br>
-In this workshop, Arnab and Alice will go over the key tools and processes required for making and coding within the realm of sex and intimate technologies. This will be an overview so materials are not compulsory, but if you wish to follow along with physical parts, bring along a Microcontroller of your choice, a motor and a MOSFET transistor (check out the electronics prototyping list above for details).
+In this workshop, Arnab and Alice will go over the key tools and processes required for making and coding within the realm of sex and intimate technologies. This will be an overview so materials are not compulsory, but if you wish to follow along with physical parts, bring along a Microcontroller of your choice, a motor and a MOSFET transistor and some breadboarding supplies (check out the electronics prototyping list above for details).
 </details>
 
 ## **Supporters**
