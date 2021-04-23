@@ -135,7 +135,7 @@ Whether you want to get physical, digital, or both, here are some prototyping to
 <details>
   <summary>⭐ Specifics for the Silicone Casting for Sex Tech demo ⭐</summary>
   </br>
-During this workshop, Laura will lead us from digital design to a physical object cast in silicone. Materials are not compulsory for this, but if you’d like to follow along, bring something you’d like to make a mold of, some Smooth-On Dragon Skin 10 NV for your final silicone part, some Smooth-On Dragon Skin 30 for the mold itself and some mixing cups, a mixing stick, etc.
+During this workshop, Laura will lead us from digital design to a physical object cast in silicone. Materials are not compulsory for this, but if you’d like to follow along, bring something you’d like to make a mold of, some mixing cups, a mixing stick, and some silicone: Laura recommends some Smooth-On Dragon Skin 10 NV for your final silicone part and some Smooth-On Dragon Skin 30 for the mold itself.
 </details>
 
 <details>
