@@ -13,9 +13,9 @@
 **What:** Rainbows End Sex Tech Hackathon is series of online events organised by by Creative Coding Utrecht, [Touchy-Feely Tech](https://www.instagram.com/touchyfeelytech/) and [Hervisions](https://www.hervisions.world/) as part of the [Rainbows End](https://creativecodingutrecht.nl/rainbows-end) online festival. Through a program of talks, workshops and a weekend-long Hackathon, we will explore technology's impact on sexuality and human behaviour by addressing the past, present, and future of the Sex Tech industry.  
 
 **When:**  
-Thursday April 29: 7-9pm CET: Priming and networking event for Hackathon ticket holders  
-Friday April 30th, 8-10pm CET: Sex Tech Talk Show  
-Saturday May 1st and Sunday May 2nd, 2021 10:30am - 18:30pm CET: ⭐The Hackathon⭐  
+Thursday April 29: 7-9pm CET: **Networking event for Hackathon ticket holders**  
+Friday April 30th, 8-10pm CET: **Sex Tech Talk Show**  
+Saturday May 1st and Sunday May 2nd, 2021 10:30am - 18:30pm CET: **⭐The Hackathon⭐**  
 
 **Cost:** €40,- / Students: €20,-  
 
