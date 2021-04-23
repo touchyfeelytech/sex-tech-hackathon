@@ -35,7 +35,7 @@ Get your tickets [here!](https://linktr.ee/touchyfeelytech)
 [ x ] [Join the Touchy-Feely Tech Discord Server](https://discord.gg/Gq4Trqb5jW)  
 [ x ] Agree to our [Code of Conduct](https://github.com/touchyfeelytech/sex-tech-hackathon/blob/main/code-of-conduct.md)  
 [ x ] Save the dates of our pre-event networking evening on **Thursday the 29th of April** and the Sex Tech Talk Show on **Friday the 30th**.  
-[ x ] Have a brief idea of the [challenge](https://github.com/touchyfeelytech/sex-tech-hackathon/blob/main/README.md#challenges) you'd like to work on - this will leave more time for development on the day!  
+[ x ] Read through this page to familiarise yourself with the event's flow and structure  
 [ x ] Order any tools or materials you might like to use ahead of time
 
 ## Finding a team
